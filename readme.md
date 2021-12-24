@@ -21,3 +21,7 @@ This Python script will provide following insights for an Android project.
 3. When asked for project path, enter full path of an Android project
 Example: `/Users/sample_user/Desktop/projects/android_workspace/first_app` 
 4. It will print the result in terminal and create `result.txt`
+
+## ➡️ Screen Shots
+
+![sample_screenshot.jpg](./screen_shots/sample_screenshot.jpg)
